@@ -1,3 +1,7 @@
+## 10.3.2
+### iOS
+- Fixed an issue when loading large (like > 3GB) videos/images.
+
 ## 10.3.1
 ### General
 - Fixed onFileLoading handler to process status changes only when data is a bool.
